@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Air",
+    "price": 999,
+    "imgUrl":"./images/1/1.png"
+  },
+  {
+    "id": 2,
+    "name": "Dell XPS 13",
+    "price": 2199,
+    "imgUrl": "./images/1/2.png"
+  },
+  {
+    "id": 3,
+    "name": "Lenovo ThinkPad",
+    "price":2699,
+    "imgUrl": "./images/1/21.png"
+  },
+  {
+    "id": 4,
+    "name": "ASUS ZenBook 14",
+    "price": 799,
+    "imgUrl":"./images/1/18.png"
+  },
+  {
+    "id": 5,
+    "name": "Acer Swift 3",
+    "price": 699,
+    "imgUrl":"./images/1/5.png"
+  },
+  {
+    "id": 6,
+    "name": "HP Spectre x360",
+    "price": 1699,
+    "imgUrl":"./images/1/15.png"
+  },
+  {
+    "id": 7,
+    "name": "Dell XPS 12",
+    "price": 1209,
+    "imgUrl":"./images/1/7.png"
+  },
+  {
+    "id": 8,
+    "name": "HP Spectre x340",
+    "price": 1000,
+    "imgUrl":"./images/1/8.png"
+  },
+  {
+    "id": 9,
+    "name": "Lenovo ThinkPad X3",
+    "price": 2000,
+    "imgUrl":"./images/1/9.png"
+  },
+  {
+    "id": 10,
+    "name": "ASUS ZenBook 14",
+    "price": 899,
+    "imgUrl":"./images/1/10.png"
+  }
+]
